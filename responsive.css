@@ -85,5 +85,11 @@
     }
 }
 
+@media(width < 768px){
+    .image11{
+        margin-top: -149.5px;
+    }
+}
+
 
 
